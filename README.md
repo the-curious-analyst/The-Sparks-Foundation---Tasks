@@ -1,4 +1,4 @@
-# [The-Sparks-Foundation - Tasks]
+# The Sparks Foundation - Tasks
 This repository is created to showcase a set of tasks given for the Data Science &amp; Business Analytics Internship.
 
 ## [Task 1 - Prediction using Supervised ML](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task1_LinearRegression)
