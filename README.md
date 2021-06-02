@@ -1,7 +1,7 @@
-# [The-Sparks-Foundation - Tasks](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task1_LinearRegression)
+# [The-Sparks-Foundation - Tasks]
 This repository is created to showcase a set of tasks given for the Data Science &amp; Business Analytics Internship.
 
-## Task 1 - Prediction using Supervised ML
+## [Task 1 - Prediction using Supervised ML](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task1_LinearRegression)
 - Predict the percentage of an student based on the no. of study hours.
 ## Task 2 - Prediction using Unsupervised ML
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
