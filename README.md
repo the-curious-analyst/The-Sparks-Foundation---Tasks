@@ -3,7 +3,7 @@ This repository is created to showcase a set of tasks given for the Data Science
 
 ## [Task 1 - Prediction using Supervised ML](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task1_LinearRegression)
 - Predict the percentage of an student based on the no. of study hours.
-## Task 2 - Prediction using Unsupervised ML(https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task2_UnsupervisedML)
+## [Task 2 - Prediction using Unsupervised ML](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task2_UnsupervisedML)
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 ## Task 3 - Exploratory Data Analysis - Retail
 - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
