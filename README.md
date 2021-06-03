@@ -12,6 +12,6 @@ This repository is created to showcase a set of tasks given for the Data Science
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 - As a security/defense analyst, try to find out the hot zone of terrorism.
 - What all security issues and insights you can derive by EDA?
-## [Task 5 - Exploratory Data Analysis - Sports](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task5_Exploratory%20Data%20Analysis%20-%20Sports/Datasets)
+## [Task 5 - Exploratory Data Analysis - Sports](https://github.com/the-curious-analyst/The-Sparks-Foundation---Tasks/tree/main/Task5_Exploratory%20Data%20Analysis%20-%20Sports)
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 - As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
